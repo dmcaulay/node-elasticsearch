@@ -8,5 +8,9 @@
   },
   "repository": "",
   "author": "Dan McAulay",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "async-resource": "0.0.2",
+    "underscore": "~1.4.4"
+  }
 }
