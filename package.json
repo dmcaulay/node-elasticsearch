@@ -1,6 +1,6 @@
 {
   "name": "node-elasticsearch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a simple interface for elasticsearch",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Dan McAulay",
   "license": "BSD",
   "dependencies": {
-    "async-resource": "0.0.3",
+    "async-resource": "0.0.4",
     "underscore": "~1.4.4"
   },
   "devDependencies": {
